@@ -13,7 +13,7 @@ We developed a single Jupyter notebook that turns the [AI Incident Database](htt
 1. Open `AIID_Research_Notebook.ipynb` in **Google Colab**
 2. Set runtime to **T4 GPU** (Runtime → Change runtime type → T4 GPU)
 3. Click **Runtime → Run all**
-4. Wait ~5 minutes. Done.
+4. Wait ~2 minutes. Done.
 
 ---
 
